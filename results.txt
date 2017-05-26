@@ -1,0 +1,463 @@
+RESULTS
+
+++++ DEC TREE ++++
+Correct: 124 Error: 15 Total: 139
+CorrectRate: 0.8920863309352518
+
+Correct: 196 Error: 12 Total: 208
+CorrectRate: 0.9423076923076923
+
+++++ ANN DEFAULT ++++
+Correct: 123 Error: 16 Total: 139
+CorrectRate: 0.8848920863309353
+
+Correct: 201 Error: 7 Total: 208
+CorrectRate: 0.9663461538461539
+
+Correct: 124 Error: 15 Total: 139
+CorrectRate: 0.8920863309352518
+
+Correct: 191 Error: 17 Total: 208
+CorrectRate: 0.9182692307692307
+
+++++ ANN VARY HIDDEN NODES ++++
+-20
+Correct: 102 Error: 37 Total: 139
+CorrectRate: 0.7338129496402878
+
+Correct: 168 Error: 40 Total: 208
+CorrectRate: 0.8076923076923077
+
+Correct: 112 Error: 27 Total: 139
+CorrectRate: 0.8057553956834532
+
+Correct: 180 Error: 28 Total: 208
+CorrectRate: 0.8653846153846154
+
+-120
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 206 Error: 2 Total: 208
+CorrectRate: 0.9903846153846154
+
+-220
+Correct: 128 Error: 11 Total: 139
+CorrectRate: 0.920863309352518
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 202 Error: 6 Total: 208
+CorrectRate: 0.9711538461538461
+
+-320
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+-420
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+-520
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+-620
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+-720
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+-820
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 206 Error: 2 Total: 208
+CorrectRate: 0.9903846153846154
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+-920
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+++++ ANN VARYING LEARNING RATES ++++
+-1e-
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 332 Error: 15 Total: 347
+TotCorrectRate: 0.9567723342939481
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 332 Error: 15 Total: 347
+TotCorrectRate: 0.9567723342939481
+
+-1e-4
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 332 Error: 15 Total: 347
+TotCorrectRate: 0.9567723342939481
+
+-1e-3
+Correct: 128 Error: 11 Total: 139
+CorrectRate: 0.920863309352518
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 333 Error: 14 Total: 347
+TotCorrectRate: 0.9596541786743515
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+-1e-2
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 331 Error: 16 Total: 347
+TotCorrectRate: 0.9538904899135446
+
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+-1e-1
+Correct: 128 Error: 11 Total: 139
+CorrectRate: 0.920863309352518
+
+Correct: 206 Error: 2 Total: 208
+CorrectRate: 0.9903846153846154
+
+TotalCorrect: 334 Error: 13 Total: 347
+TotCorrectRate: 0.962536023054755
+
+Correct: 128 Error: 11 Total: 139
+CorrectRate: 0.920863309352518
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 333 Error: 14 Total: 347
+TotCorrectRate: 0.9596541786743515
+
+++++ ANN VARYING HIDDEN LAYERS ++++
+-layer-1
+Correct: 128 Error: 11 Total: 139
+CorrectRate: 0.920863309352518
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 332 Error: 15 Total: 347
+TotCorrectRate: 0.9567723342939481
+
+-layer-2
+Correct: 127 Error: 12 Total: 139
+CorrectRate: 0.9136690647482014
+
+Correct: 205 Error: 3 Total: 208
+CorrectRate: 0.9855769230769231
+
+TotalCorrect: 332 Error: 15 Total: 347
+TotCorrectRate: 0.9567723342939481
+
+-layer-3
+Correct: 4 Error: 135 Total: 139
+CorrectRate: 0.02877697841726619
+
+Correct: 4 Error: 204 Total: 208
+CorrectRate: 0.019230769230769232
+
+TotalCorrect: 8 Error: 339 Total: 347
+TotCorrectRate: 0.023054755043227664
+
+-layer-4
+Correct: 4 Error: 135 Total: 139
+CorrectRate: 0.02877697841726619
+
+Correct: 4 Error: 204 Total: 208
+CorrectRate: 0.019230769230769232
+
+TotalCorrect: 8 Error: 339 Total: 347
+TotCorrectRate: 0.023054755043227664
+
+-layer-5
+Correct: 4 Error: 135 Total: 139
+CorrectRate: 0.02877697841726619
+
+Correct: 4 Error: 204 Total: 208
+CorrectRate: 0.019230769230769232
+
+TotalCorrect: 8 Error: 339 Total: 347
+TotCorrectRate: 0.023054755043227664
+
+++++ SVM VARYING KERNELS ++++
+-linear
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+-rbf
+Correct: 4 Error: 135 Total: 139
+CorrectRate: 0.02877697841726619
+
+Correct: 4 Error: 204 Total: 208
+CorrectRate: 0.019230769230769232
+
+TotalCorrect: 8 Error: 339 Total: 347
+TotCorrectRate: 0.023054755043227664
+
+-polynomial
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+TotalCorrect: 329 Error: 18 Total: 347
+TotCorrectRate: 0.9481268011527377
+
+-sigmoid
+Correct: 4 Error: 135 Total: 139
+CorrectRate: 0.02877697841726619
+
+Correct: 4 Error: 204 Total: 208
+CorrectRate: 0.019230769230769232
+
+TotalCorrect: 8 Error: 339 Total: 347
+TotCorrectRate: 0.023054755043227664
+
+++++ SVM VARYING POLYNOMIAL DEGREES ++++
+-deg-1
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+-deg-2
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
+
+-deg-3
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+TotalCorrect: 329 Error: 18 Total: 347
+TotCorrectRate: 0.9481268011527377
+
+-deg-4
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 203 Error: 5 Total: 208
+CorrectRate: 0.9759615384615384
+
+TotalCorrect: 329 Error: 18 Total: 347
+TotCorrectRate: 0.9481268011527377
+
+
+-deg-5
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 202 Error: 6 Total: 208
+CorrectRate: 0.9711538461538461
+
+TotalCorrect: 328 Error: 19 Total: 347
+TotCorrectRate: 0.9452449567723343
+
+-deg-6
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 202 Error: 6 Total: 208
+CorrectRate: 0.9711538461538461
+
+TotalCorrect: 328 Error: 19 Total: 347
+TotCorrectRate: 0.9452449567723343
+
+-deg-7
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 201 Error: 7 Total: 208
+CorrectRate: 0.9663461538461539
+
+TotalCorrect: 327 Error: 20 Total: 347
+TotCorrectRate: 0.9423631123919308
+
+-deg-8
+Correct: 125 Error: 14 Total: 139
+CorrectRate: 0.8992805755395683
+
+Correct: 201 Error: 7 Total: 208
+CorrectRate: 0.9663461538461539
+
+TotalCorrect: 326 Error: 21 Total: 347
+TotCorrectRate: 0.9394812680115274
+
+-deg-9
+Correct: 124 Error: 15 Total: 139
+CorrectRate: 0.8920863309352518
+
+Correct: 200 Error: 8 Total: 208
+CorrectRate: 0.9615384615384616
+
+TotalCorrect: 324 Error: 23 Total: 347
+TotCorrectRate: 0.9337175792507204
+
+-deg-10
+Correct: 124 Error: 15 Total: 139
+CorrectRate: 0.8920863309352518
+
+Correct: 199 Error: 9 Total: 208
+CorrectRate: 0.9567307692307693
+
+TotalCorrect: 323 Error: 24 Total: 347
+TotCorrectRate: 0.930835734870317
+
+++++ SCALED ++++
+ANN - 420 nodes, alpha=1e-5, 1 hidden layers
+Correct: 123 Error: 16 Total: 139
+CorrectRate: 0.8848920863309353
+
+Correct: 193 Error: 15 Total: 208
+CorrectRate: 0.9278846153846154
+
+TotalCorrect: 316 Error: 31 Total: 347
+TotCorrectRate: 0.9106628242074928
+
+SVM - Linear
+Correct: 126 Error: 13 Total: 139
+CorrectRate: 0.9064748201438849
+
+Correct: 204 Error: 4 Total: 208
+CorrectRate: 0.9807692307692307
+
+TotalCorrect: 330 Error: 17 Total: 347
+TotCorrectRate: 0.9510086455331412
